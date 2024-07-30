@@ -12,4 +12,4 @@
 
 
 # Mais Informações:
-https://vercel.com/joao-luizs-projects-468281c7/cardapio-online
+https://cardapio-online-bice.vercel.app/
